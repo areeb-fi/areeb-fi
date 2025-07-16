@@ -21,7 +21,6 @@ Feel free to connect with me on LinkedIn (linkedin.com/in/areeburrub) to learn m
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=areeb-fi&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=areeb-fi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=areeb-fi&icon=0&color=0)](https://visitcount.itsvg.in)
